@@ -1,4 +1,1 @@
-This folder contains 2 spreadsheets completed whilst working on the Data Visualization: A Practical Approach for Absolute Beginners course by EDX. The first being a butterfly chart whilst the second being a dashboard of a lemonade business. 
-
-
-
+This folder contains all exercises completed whilst working on the Introduction to Data Analysis using Excel course by EDX. The lab exercises comprises pivot tables, pivot charts and dashboards. 
