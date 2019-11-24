@@ -1,2 +1,2 @@
-# portfolio
-Personal data analytics portfolio
+# Portfolio
+Personal Data Analytics Portfolio
